@@ -7,3 +7,9 @@ The rewrite allowed us to migrate to a fairly updated server and shut down the o
 After the migration the login form allows using the old passwords (not known to the admin), wich are being transformed into a new and safer format during the first successfull logins.
 
 Thanks to Bootstrap i also did some visual tweaking ;) - hoping to make it more intuitive and practical.
+
+---
+We use local copies of jquery and bootstrap to insure normal operation also with internet outage.
+
+Messages mainly in spanish due to our operation location.
+Menu item "IP range" not operational yet, currently you can execute a stored procedure prepared for this purpose.
