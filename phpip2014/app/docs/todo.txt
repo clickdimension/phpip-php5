@@ -1,0 +1,18 @@
+pending according phpip
+
+view update history
+
+
+iprange:
+manage ip subnets (add, delete, )
+
+----
+
+improve change history 
+checks, validations, checks
+keep register of uninstalled clients !!
+
+
+---
+
+migrate - relate to: CACTI/monitoring, access-cells (WLL, GPON OLT), HW inventory, Service orders, Service documents (installation details, protocols)

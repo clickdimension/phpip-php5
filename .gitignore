@@ -3,8 +3,15 @@ node_modules/
 npm-debug.log
 
 # Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+/*/bootstrap/compiled.php
+**/app/storage/
+**/app/start/
+**/app/tests/
+**/.gitignore
+**/app/commands/
+**/bootstrap/
+**/*test_str.php
+**/app/database/
 
 # Laravel 5 & Lumen specific
 public/storage
